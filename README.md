@@ -27,11 +27,8 @@ Back-End Development
 	•	IDEs: IntelliJ IDEA, Visual Studio Code
 	•	Version Control: Bitbucket, Git, GitHub
 	•	Project Management: Jira, Confluence
- 🤝 Let’s Connect
 
-	•	LinkedIn: linkedin.com/in/jithu-benny-06285b85
-
-Thank you for visiting my profile! I’m always open to discussing new opportunities, collaborations, or just talking about tech. Feel free to reach out!
+Thank you for visiting my profile! 
 
 😊
 <!---
